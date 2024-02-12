@@ -82,7 +82,6 @@ export class ReportService {
     hl7Message.children = hl7Message.children.filter((element) => !!element);
 
     if (!hl7Message.children.length) {
-      console.timeEnd('parseRawReport');
       throw new BadRequestException();
     }
 
