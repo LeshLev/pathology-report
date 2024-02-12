@@ -4,6 +4,8 @@ Test task showcasing a React + Node.js application to automatically interpret pa
 
 ## Screencast
 
+https://github.com/LeshLev/pathology-report/assets/156815545/bc96e53f-1cf0-4e80-9cd9-c3b77b4a448c
+
 ## Get started
 
 1. Install root dependencies with `npm install`
